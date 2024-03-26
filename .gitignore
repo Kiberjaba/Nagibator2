@@ -3,7 +3,7 @@ from telegram import Update
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackContext
 import telebot
 
-bot = telebot.TeleBot("6338270646:AAGLlbcNbBuU8h-RviGA-8YFO32xbCa2sek")
+bot = telebot.TeleBot("1989152371:AAE_CZu_C7LYdu_Xb-rw9N7oB6r0_uHNgCM")
 import random
 
 # Настройка логирования
